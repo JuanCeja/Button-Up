@@ -1,0 +1,33 @@
+.button {
+    border: 1px solid dodgerblue;
+    border-radius: 30px;
+    width: 200px;
+    height: 30px;
+    color: aliceblue;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.button1 {
+    border-radius: 50%;
+    background-color: dodgerblue;
+    text-align: center;
+    margin: 20px;
+    padding: 8px 12px;
+    font-size: 16px;
+    border: none;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: dodgerblue;
+    color: aliceblue;
+    text-align: center;
+    cursor: pointer;
+    padding: 8px 30px;
+    box-shadow: 5px 10px 18px black;
+    border: 1px solid black;
+} 
